@@ -2,7 +2,7 @@ target/
 debug/
 
 Cargo.lock
-
+.cargo
 
 **/*.rs.bk
 
